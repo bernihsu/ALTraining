@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="zh-TW" original="Day1">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3592262002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Smart Phone JCOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 3536658715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Battery Changeable</source>
+          <target>是否可換電池</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Battery Changeable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 123309745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Memory(G)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Memory(G) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 2627670284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Item used</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Number of Item used - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 3311533855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Release Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 726559849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Storage(G)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Storage(G) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 2509357728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Uninstall Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Test Uninstall - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3592262002 - Field 237762718 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Smartphone JCOM - Field Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82247351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test JCOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test JCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82247351 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test JCOM - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82247351 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test JCOM - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82247351 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test JCOM - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82247351 - Field 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test JCOM - Field Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 82247351 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test JCOM - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281178918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Smartphone JCOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone JCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281178918 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone JCOM - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 281178918 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone JCOM - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2178637112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Smartphone Line JCOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone Line JCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2178637112 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone Line JCOM - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2178637112 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone Line JCOM - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2178637112 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone Line JCOM - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2178637112 - Field 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone Line JCOM - Field Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2178637112 - Field 1527594213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vendor Smartphone Line JCOM - Field Vendor No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3938601566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Smartphone Card JCOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone Card JCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3938601566 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone Card JCOM - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1.New,2.Process,3.Report,4.Filter,5.Berni的Categories</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Smartphone List JCOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 767201282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Smartphone List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action MyList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 278822424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>我的手機清單2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action MyList2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 2900415340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Usage of Smartphone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action ShowCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 3450861558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>使用 Confirm 讓使用者決定是否使用function calcufield</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action ShowCount2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 3450861558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate Usage of Smartphone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action ShowCount2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 2813164941 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>使用function calcufield後再取得資料</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action ShowCount3 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 2813164941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Calculate then get record</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action ShowCount3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 3919649152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>使用 autocalcufield</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action ShowCount4 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3265187576 - Action 3919649152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autocalcufield Usage of Smartphone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Smartphone List JCOM - Action ShowCount4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 281178918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Smartphone List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Smartphone JCOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 281178918 - Control 2927445257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vendor Smartphone JCOM - Control VendorSmartphoneLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1013713215 - NamedType 3676823606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Berni Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Smartphone List 2 - NamedType MyCompName</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3456710516 - Control 3434066902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>Smartphone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemCardExt - Control Smartphone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3161620194 - Field 2607904522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Favorite Smartphone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExt JCOM - Field Favorite Smartphone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2134778185 - Field 3434066902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Smartphone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemExt JCOM - Field Smartphone No. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
